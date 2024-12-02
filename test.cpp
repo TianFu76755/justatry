@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+//发生发顺丰的
 bool fun(const string& str) {
     int left = 0, right = str.length() - 1;
     while (left < right) {
